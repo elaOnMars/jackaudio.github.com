@@ -100,7 +100,7 @@ main menu, but this text-based method is faster and much easier to explain.
 
 If you are using a distribution that has already created the group and
 configured the "limits" file, you will need to determine the name of the group
-(it is likely called "audio" or "jackuser") and then you can just add yourself
+(it is likely called "realtime", "audio" or "jackuser") and then you can just add yourself
 to the group with this command (run as the superuser inside a terminal
 window):
 
